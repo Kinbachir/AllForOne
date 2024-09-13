@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllForOne", "AllForOne\AllForOne.csproj", "{E1282FD1-0E3C-4A17-9F4F-C2F9EA6711AB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AllForOneDB", "AllForOneDB\AllForOneDB.sqlproj", "{2E07CB6D-6452-4748-B9FF-BB7E3740F632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1282FD1-0E3C-4A17-9F4F-C2F9EA6711AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1282FD1-0E3C-4A17-9F4F-C2F9EA6711AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1282FD1-0E3C-4A17-9F4F-C2F9EA6711AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1282FD1-0E3C-4A17-9F4F-C2F9EA6711AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E07CB6D-6452-4748-B9FF-BB7E3740F632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E07CB6D-6452-4748-B9FF-BB7E3740F632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E07CB6D-6452-4748-B9FF-BB7E3740F632}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E07CB6D-6452-4748-B9FF-BB7E3740F632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E07CB6D-6452-4748-B9FF-BB7E3740F632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E07CB6D-6452-4748-B9FF-BB7E3740F632}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DBDCB1-A3B3-4232-88DC-4B477C90F51A}
+	EndGlobalSection
+EndGlobal
